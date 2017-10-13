@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=mat\ bool
+comment0.target=Jama.Matrix\ sigmoidFunc(Jama.Matrix,\ boolean)
+comment1.params=num
+comment1.target=double\ sigmoid(double)
+comment2.params=row\ col
+comment2.target=Jama.Matrix\ randomMatrix(int,\ int)
+comment3.params=a\ b
+comment3.target=Jama.Matrix\ divideAvg(Jama.Matrix,\ Jama.Matrix)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

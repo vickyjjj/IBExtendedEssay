@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=mat\ bool
+comment0.target=Jama.Matrix\ sigmoidFunc(Jama.Matrix,\ boolean)
+comment1.params=row\ col
+comment1.target=Jama.Matrix\ randomMatrix(int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
